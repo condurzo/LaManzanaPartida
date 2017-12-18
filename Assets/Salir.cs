@@ -6,7 +6,7 @@ public class Salir : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		//Esto es una prueba
+		
 	}
 	
 	// Update is called once per frame
