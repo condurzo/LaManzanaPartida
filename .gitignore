@@ -1,3 +1,6 @@
 Library/
 ProjectSettings/
 Temp/
+Assembly-CSharp-Editor.csproj
+*.csproj
+LaManzanaPartida.sln
